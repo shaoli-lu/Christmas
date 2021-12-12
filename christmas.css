@@ -28,7 +28,7 @@ div {
     color: orange;
 }
 
-img {
+#usd {
     height: 20%
 }
 
@@ -47,4 +47,12 @@ iframe {
     padding: 20px 0;
     color: #999;
     font-size: .9rem;
+  }
+
+  #cntr {
+    text-align: center;
+    padding: 20px 0;
+    color: #999;
+    font-size: .1rem;
+
   }
