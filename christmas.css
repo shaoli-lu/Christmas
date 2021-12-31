@@ -15,7 +15,8 @@ div {
     animation-name: grow;
     animation-duration: 60s;
     animation-fill-mode: forwards;
-    margin-left: 5px;
+    margin-left: 3px;
+	margin-right: 3px;
     
 }
 
@@ -37,7 +38,7 @@ iframe {
     margin: 0 0 0 2;
     overflow:auto;
     border:.01 3px solid green;
-    width:375px; 
+    width:364px; 
     height:310px; 
 
   }
