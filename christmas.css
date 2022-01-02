@@ -20,6 +20,12 @@ div {
     
 }
 
+#qr {
+height: 20%;
+display: flex;
+justify-content: center;
+}
+
 .move {
     position: relative;
     animation-name: move;
